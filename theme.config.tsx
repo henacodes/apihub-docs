@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>API-HUB</span>,
   project: {
-    link: 'https://github.com/dagmawibabi/',
+    link: 'https://github.com/dagmawibabi/apihub',
   },
   docsRepositoryBase: 'https://github.com/henacodes/apihub-docs',
   footer: {
